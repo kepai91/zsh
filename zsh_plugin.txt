@@ -1,0 +1,18 @@
+zsh-users/zsh-autosuggestions
+zsh-users/zsh-syntax-highlighting
+
+zdharma/fast-syntax-highlighting
+psprint/history-search-multi-word
+akoenig/gulp.plugin.zsh
+peterhurford/up.zsh
+robbyrussell/oh-my-zsh path:plugins/aws
+robbyrussell/oh-my-zsh path:plugins/git
+robbyrussell/oh-my-zsh path:plugins/golang
+robbyrussell/oh-my-zsh path:plugins/history
+robbyrussell/oh-my-zsh path:plugins/history-substring-search
+robbyrussell/oh-my-zsh path:plugins/kops
+robbyrussell/oh-my-zsh path:plugins/kubectl
+robbyrussell/oh-my-zsh path:plugins/minikube
+robbyrussell/oh-my-zsh path:plugins/terraform
+robbyrussell/oh-my-zsh path:plugins/tmux
+robbyrussell/oh-my-zsh path:plugins/vi-mode
